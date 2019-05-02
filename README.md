@@ -1,6 +1,10 @@
 # Gunman's Nightmare
 
-This game is about a guy known as "gunman" who is trapped in a nightmare and is trying to escape by killing all of the demons with his gun.
+Gunman's Nightmare is a story game about a guy known as "gunman" who is stuck in an endless nightmare. His only means of escape is surviving until it all ends, hopefully...
+
+## Trailer
+
+https://www.youtube.com/watch?v=9pqFwmkh7r8
 
 ## Background
 

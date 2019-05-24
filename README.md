@@ -8,4 +8,4 @@ Gunman's Nightmare is a story game about a guy known as "gunman" who is stuck in
 https://www.youtube.com/watch?v=9pqFwmkh7r8
 ## Background
 
-This is a game I created when I was a junior in highschool. At that point in time I wanted to create something amazing. Looking back, the code is not perfect and I remeber I wanted to add parallax scrolling but I didn't know how it worked at all. It is great to see how far I have come with my programming and I always enjoy looking back on this project.
+This is a game I created when I was a junior in highschool. At that point in time I wanted to create something amazing. Looking back, the code is not perfect and I remember I wanted to add parallax scrolling and a camera but I didn't know how. It is great to see how far I have come with my programming and I always enjoy looking back on this project.

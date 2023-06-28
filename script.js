@@ -74,9 +74,11 @@ window.onload = function() {
 	kills = 0;
 	upgradeEnabled = false;
 	createPlayer();
-	startNewGame();
 
 }
+window.addEventListener("click", () => {
+	startNewGame();
+}, { once: true });
 
 startNewGame = function(){
 	player.meleeAtkSpd = 1;
